@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Daniel or @GIuttony
 - 👀 I’m interested in learning more about IT
 - 🌱 I’m currently learning properly use Github
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Gluttony852@gmail.com
 
 <!---
